@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sports & Athletics Mobile App for Player Self-Service
 
 A **professional, modern, responsive, full-stack Sports & Athletics Mobile App for Player Self-Service**. This application provides a centralized digital platform where athletes/players can independently manage their sports profile, personal credentials, training schedules, performance statistics, attendance, competitions, achievements, notifications, documents, and communication with coaches and sports administrators.
@@ -190,3 +191,6 @@ sports-athletics-app/
 
 ---
 *Created for University Varsity Sports & Athletics Department Demonstration.*
+=======
+# SportsAthletics_Player_Self_Service_DBMS_DBD
+>>>>>>> 12fdc9ce47d586880071ef73ac56eb3f8481e502
